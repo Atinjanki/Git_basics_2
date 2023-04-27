@@ -50,4 +50,12 @@ This '-u' command sets an upstream and git knows where to push the nest time onw
 So next time onwards, we only need to do-
     git push
 
+## Local changes
+
+for testing branch changes
+
+## Use git diff
+To compare what changes have been made between branches
+    git diff <branch-name>
+
     
