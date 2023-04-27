@@ -64,3 +64,6 @@ to delete the branch
     git branch -d <branch name>
 
 ## testing for merge conflict resolution
+
+## Lets create conflict
+Hello there!
