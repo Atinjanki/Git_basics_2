@@ -75,3 +75,9 @@ To undo staging-
 To undo commit-
     git reset HEAD~1
 It tells git to go back to one commit earlier!
+hey
+
+Or to go back to a particular commit, do-
+    git reset <hash of that commit>
+You can get the hash code for commits by doing,
+    git log
