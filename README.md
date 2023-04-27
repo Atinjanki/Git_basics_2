@@ -36,6 +36,7 @@ Create a new repo on Github, copy its clone link, then do-
     git remote add origin <cloning link of that repo>
 
 This will add a remote repo (which is not on this machine but remotely somewhere else) as an origin to our local repo.
+Also avoid extra characters at end of repo URL like '~'.
 
 Once that is done, we can check the remote repos by typing-
     $ git remote -v
