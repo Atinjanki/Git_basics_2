@@ -13,7 +13,7 @@ Check git status
 So we would do -  
     git init
 
-This makes it as a git repo! (Beware: This creates a git repo with default branch name as - master and that could cause issues when your remote repo is called 'main' or not 'master').
+This makes it as a git repo! (Beware: This creates a git repo with default branch name as - master and that could cause issues when your remote repo is called 'main' or not 'master'). https://git-scm.com/docs/git-init
 So in such case, do -
     Delete the existing .git directory in the root directory of your repository.
 
