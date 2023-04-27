@@ -62,3 +62,5 @@ To compare what changes have been made between branches
 ## Use git branch -d 
 to delete the branch
     git branch -d <branch name>
+
+## testing for merge conflict resolution
