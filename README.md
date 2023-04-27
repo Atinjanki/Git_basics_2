@@ -67,3 +67,11 @@ to delete the branch
 
 ## Lets create conflict
 Hello there!
+have fun!
+
+To undo staging- 
+    use git reset
+
+To undo commit-
+    git reset HEAD~1
+It tells git to go back to one commit earlier!
